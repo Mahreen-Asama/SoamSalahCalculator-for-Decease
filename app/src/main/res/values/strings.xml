@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SoamSalahCalculatorDecease</string>
+
+    <string-array name="time_options">
+        <item>Years</item>
+        <item>Months</item>
+        <item>Weeks</item>
+        <item>Days</item>
+    </string-array>
+</resources>
